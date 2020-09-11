@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="98475" started-at="2020-08-10T10:20:48 IST" finished-at="2020-08-10T10:22:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="98475" started-at="2020-08-10T10:20:48 IST" finished-at="2020-08-10T10:22:26 IST">
+      <class name="com.autodiskcrm.orgtest.CreateOrganizationTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.autodiskcrm.orgtest.CreateOrganizationTest@3fd7a715]" name="configBS" is-config="true" duration-ms="37" started-at="2020-08-10T10:20:48 IST" finished-at="2020-08-10T10:20:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.autodiskcrm.orgtest.CreateOrganizationTest@3fd7a715]" name="configBC" is-config="true" duration-ms="7528" started-at="2020-08-10T10:20:48 IST" finished-at="2020-08-10T10:20:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.autodiskcrm.orgtest.CreateOrganizationTest@3fd7a715]" name="configBM" is-config="true" duration-ms="9282" started-at="2020-08-10T10:20:56 IST" finished-at="2020-08-10T10:21:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createOrgeithTypeTest()[pri:1, instance:com.autodiskcrm.orgtest.CreateOrganizationTest@3fd7a715]" name="createOrgeithTypeTest" duration-ms="37412" started-at="2020-08-10T10:21:05 IST" finished-at="2020-08-10T10:21:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgeithTypeTest -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.autodiskcrm.orgtest.CreateOrganizationTest@3fd7a715]" name="configAm" is-config="true" duration-ms="3400" started-at="2020-08-10T10:21:42 IST" finished-at="2020-08-10T10:21:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.autodiskcrm.orgtest.CreateOrganizationTest@3fd7a715]" name="configBM" is-config="true" duration-ms="7533" started-at="2020-08-10T10:21:46 IST" finished-at="2020-08-10T10:21:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createOrg()[pri:2, instance:com.autodiskcrm.orgtest.CreateOrganizationTest@3fd7a715]" name="createOrg" duration-ms="29674" started-at="2020-08-10T10:21:53 IST" finished-at="2020-08-10T10:22:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrg -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.autodiskcrm.orgtest.CreateOrganizationTest@3fd7a715]" name="configAm" is-config="true" duration-ms="3386" started-at="2020-08-10T10:22:23 IST" finished-at="2020-08-10T10:22:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.autodiskcrm.orgtest.CreateOrganizationTest@3fd7a715]" name="configAC" is-config="true" duration-ms="88" started-at="2020-08-10T10:22:26 IST" finished-at="2020-08-10T10:22:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="confiAs()[pri:0, instance:com.autodiskcrm.orgtest.CreateOrganizationTest@3fd7a715]" name="confiAs" is-config="true" duration-ms="0" started-at="2020-08-10T10:22:27 IST" finished-at="2020-08-10T10:22:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiAs -->
+      </class> <!-- com.autodiskcrm.orgtest.CreateOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
